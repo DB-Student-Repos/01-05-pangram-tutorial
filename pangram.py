@@ -1,3 +1,5 @@
+#Strings, Lists, Slicing, Iteration
+
 import string
 def is_pangram(sentence):
     MyVariable = sentence.lower()
